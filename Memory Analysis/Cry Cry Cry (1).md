@@ -8,3 +8,4 @@ $ python3 vol.py -f CryCryCry.mem windows.cmdline
 2828    taskhsvc.exe    TaskData\Tor\taskhsvc.exe
 ✅4524 ✅@WanaDecryptor "C:\Users\ewiges\Desktop\@WanaDecryptor@.exe"
 ```
+- Answer: forensic{4524}
